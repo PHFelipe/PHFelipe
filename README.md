@@ -27,5 +27,5 @@
 
 ----
 ## 🌎  <strong>Onde me encontrar:</strong>
-![Linkedin: Paulo Henrique](https://img.shields.io/badge/-PauloHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-3999341b8/)
-![Gmail Badge](https://img.shields.io/badge/gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.academico01@gmail.com)
+<a href = "mailto:paulo.academico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-henrique-3999341b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
