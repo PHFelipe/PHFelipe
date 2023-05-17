@@ -14,7 +14,8 @@
 ---
 
 ## ⭐ <strong>Detalhes sobre meus repositorios:</strong>
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PHFelipe&layout=compact&theme=default" />
+<img height ="170" align ="left" src="https://github-readme-stats.vercel.app/api?username=PHFelipe&show_icons=true"/>
+<img height ="170" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PHFelipe&layout=compact&theme=default" />
 <br/>
 <br/>
 <br/>
