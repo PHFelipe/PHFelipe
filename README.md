@@ -1,6 +1,6 @@
 ## 👨‍💻 Olá, meu nome é <strong>Paulo Henrique!</strong>
 
-> Curso Engenharia de Computação no IFPB-CG. Sou Fascinado pela tecnologia e gosto de aprender sobre coisas novas no dia a dia, dentre elas, progamação.
+> Curso Engenharia de Computação no IFPB-CG. Sou Fascinado pela tecnologia e gosto de aprender sobre coisas novas no dia a dia, dentre elas, programação.
 
 ----
 
